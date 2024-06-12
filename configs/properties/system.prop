@@ -1,0 +1,5 @@
+# Pre-Rendering
+ro.vendor.perf.scroll_opt=true
+
+# SystemUI
+persist.sysui.disableBlur=true
