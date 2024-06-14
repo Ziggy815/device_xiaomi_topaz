@@ -28,7 +28,3 @@ debug.sf.disable_client_composition_cache=1
 
 # Prefetch Video
 persist.mm.enable.prefetch=true
-
-# Vendor
-vendor.pasr.activemode.enabled=false
-vendor.power.pasr.enabled=false
