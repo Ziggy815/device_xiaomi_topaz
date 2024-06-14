@@ -6,6 +6,7 @@ ro.hardware.wlan.chip=wcn3950
 
 # Radio
 persist.sys.radio.force_lte_ca=true
+persist.vendor.radio.add_power_save=1
 
 # SkiaGL Threaded
 debug.hwui.renderer=skiagl
