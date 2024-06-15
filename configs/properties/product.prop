@@ -9,3 +9,9 @@ ro.surface_flinger.use_content_detection_for_refresh_rate=true
 
 # Roaming (Disabled by default)
 ro.com.android.dataroaming=false
+
+# Iorapd
+ro.iorapd.enable=false
+iorapd.perfetto.enable=false
+iorapd.readahead.enable=false
+persist.device_config.runtime_native_boot.iorap_readahead_enable=false
